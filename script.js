@@ -129,7 +129,6 @@ function enter(){
       } 
       }
   }
-  document.getElementById("text").innerText=targetlist;
   console.log(targetlist);
 
 
